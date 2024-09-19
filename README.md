@@ -10,3 +10,5 @@ Configuração da fila no formato G/G/n/K em que:
 Exemplo de input:
 
 python simulador2.py G/G/2/3 1 4 3 4 G/G/1/5 2 3
+
+Autores: Alison de Quadros Carnetti / Osmar Sadi Nether Filho / Arthur Real Sanchotene Ferreira
